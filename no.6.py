@@ -1,0 +1,1 @@
+#Write a Python program that lists out all the default as well as custom properties of the class.
